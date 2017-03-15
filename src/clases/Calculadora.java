@@ -49,8 +49,9 @@ public class Calculadora {
 	 * @return cociente
 	 */
 	public static float division (float x, float y){
+		System.out.print("Imprimiendo...");
 		return (x / y);
-		System.out.print("Imprimiendo...")
+		
 	}
 	
 }
