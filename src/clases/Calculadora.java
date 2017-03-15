@@ -50,6 +50,10 @@ public class Calculadora {
 	 */
 	public static float division (float x, float y){
 		System.out.print("Imprimiendo...");
+<<<<<<< HEAD
+		System.out.print("hola");
+=======
+>>>>>>> refs/heads/master
 		return (x / y);
 		
 	}
